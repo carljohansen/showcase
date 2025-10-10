@@ -5,7 +5,8 @@ My new mobile app, [SpinShuffle](https://spinshuffle.net), is available on the A
 SpinShuffle uses both the .NET MAUI and MonoGame platforms. It is featured on the 
 [MonoGame Showcase](https://monogame.net/showcase) page.
 
-My personal website contains a [walkthrough video](https://carljohansen.wordpress.com/2024/10/24/spinshuffle-puzzle-walkthrough/). 
+Here's a nifty [YouTube short](https://www.youtube.com/shorts/ImWqueTY41w) demo.
+
 ## Chess
 As a demonstration of React/TypeScript I have built a chess-playing app. The 
 [overview article](https://carljohansen.wordpress.com/2024/10/03/shallow-thought-chess-player-in-react/) includes links to the code on GitHub and a running version of the game.  For fun, I pitted it against some of the bots on [Chess.com](https://carljohansen.wordpress.com/2024/10/21/shallow-thought-versus-chess-com-bots/).
