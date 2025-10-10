@@ -7,6 +7,9 @@ SpinShuffle uses both the .NET MAUI and MonoGame platforms. It is featured on th
 
 Here's a nifty [YouTube short](https://www.youtube.com/shorts/ImWqueTY41w) demo.
 
+## Open Source
+In May 2025 I collaborated with .NET legend Jon Skeet to develop a new feature (‘EmitNumericTypes’) that I conceived for the Google Cloud Logging Console NuGet package (see [our discussion](https://github.com/googleapis/google-cloud-dotnet/issues/14693)).
+
 ## Chess
 As a demonstration of React/TypeScript I have built a chess-playing app. The 
 [overview article](https://carljohansen.wordpress.com/2024/10/03/shallow-thought-chess-player-in-react/) includes links to the code on GitHub and a running version of the game.  For fun, I pitted it against some of the bots on [Chess.com](https://carljohansen.wordpress.com/2024/10/21/shallow-thought-versus-chess-com-bots/).
