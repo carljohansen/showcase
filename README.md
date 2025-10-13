@@ -7,6 +7,8 @@ SpinShuffle uses both the .NET MAUI and MonoGame platforms. It is featured on th
 
 Here's a nifty [YouTube short](https://www.youtube.com/shorts/ImWqueTY41w) demo.
 
+You will occassionally find me playing SpinShuffle games and solving the Daily Challenge on my [Twitch](https://www.twitch.tv/villainatlarge) channel.
+
 ## Open Source
 In May 2025 I collaborated with .NET legend Jon Skeet to develop a new feature (‘EmitNumericTypes’) that I conceived for the Google Cloud Logging Console NuGet package (see [our discussion](https://github.com/googleapis/google-cloud-dotnet/issues/14693)).
 
