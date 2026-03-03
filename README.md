@@ -5,7 +5,7 @@ My new mobile app, [SpinShuffle](https://spinshuffle.net), is available on the A
 SpinShuffle uses both the .NET MAUI and MonoGame platforms. It is featured on the 
 [MonoGame Showcase](https://monogame.net/showcase) page.
 
-Here's a nifty [YouTube short](https://www.youtube.com/shorts/ImWqueTY41w) demo.
+Here's a nifty [YouTube short](https://youtube.com/shorts/epiOc3Ttcpo?si=bVZGtdawvFQtOzfx) demo.
 
 You will occassionally find me playing SpinShuffle games and solving the Daily Challenge on my [Twitch](https://www.twitch.tv/villainatlarge) channel.
 
